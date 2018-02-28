@@ -1,0 +1,13 @@
+#Tomcat publish data
+#Tue Jan 23 18:17:29 IST 2018
+org.eclipse.jst.jee.server\:registration=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration
+org.eclipse.jst.jee.server\:citizen-api=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\citizen-api
+org.eclipse.jst.j2ee.server\:cms-api=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\cms-api-1.0.0.jar
+org.eclipse.jst.j2ee.server\:coverfox-client=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\coverfox-api-1.0.0.jar
+org.eclipse.jst.j2ee.server\:communication-api=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\communication-api-1.0.0.jar
+org.eclipse.jst.j2ee.server\:aadhar-client-TCS=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\aadhar-api-tcs-1.0.0.jar
+org.eclipse.jst.j2ee.server\:rta-core=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\rta-core-1.0.0.jar
+org.eclipse.jst.j2ee.server\:aadhar-client=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\aadhar-api-1.0.0.jar
+org.eclipse.jst.jee.server\:citizen-activiti-api=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\citizen-activiti-api
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kelltontech\\.m2\\repository\\org\\springframework\\spring-web\\4.2.6.RELEASE\\spring-web-4.2.6.RELEASE.jar=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\registration\\WEB-INF\\lib\\spring-web-4.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kelltontech\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.0.33\\tomcat-embed-websocket-8.0.33.jar=E\:\\Other Project Dumps\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\citizen-api\\WEB-INF\\lib\\tomcat-embed-websocket-8.0.33.jar

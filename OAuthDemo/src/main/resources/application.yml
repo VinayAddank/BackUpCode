@@ -1,0 +1,12 @@
+server:
+  port: 8080
+security:
+  oauth2:
+    client:
+      clientId: 789
+      clientSecret: qTfpBNRGCL5M1TZYUN2UBN36n0Rus5K5k15HWnivOvgMJdztDHWslePsGBRQfyZW
+      accessTokenUri: https://localhost:9031/as/token.oauth2
+      userAuthorizationUri: https://localhost:9031/as/authorization.oauth2
+      scope: openid
+    resource:
+      userInfoUri: https://localhost:9031/idp/userinfo.openid

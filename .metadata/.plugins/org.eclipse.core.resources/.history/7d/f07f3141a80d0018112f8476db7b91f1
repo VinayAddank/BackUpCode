@@ -1,0 +1,12 @@
+server:
+  port: 8080
+security:
+  oauth2:
+    client:
+      clientId: 0oads8h9coLjKLkrQ0h7
+      clientSecret: f29R8K0x91oBqoOFQbnyy5BmVgF4t5js_2ps_1Bf
+      accessTokenUri: https://dev-629183.oktapreview.com/oauth2/ausds2r05ctHt3YSG0h7/v1/token
+      userAuthorizationUri: https://dev-629183.oktapreview.com/oauth2/ausds2r05ctHt3YSG0h7/v1/authorize
+      scope: openid profile email
+    resource:
+      userInfoUri: https://dev-629183.oktapreview.com/oauth2/ausds2r05ctHt3YSG0h7/v1/userinfo
